@@ -1,5 +1,7 @@
-valor_de_a = 20
-valor_de_b = 30
+
+
+valor_de_a = input("Digite o valor de A: ")
+valor_de_b = input("Digite o Valor de B: ")
 
 valor_temp_a = valor_de_a
 
